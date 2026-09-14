@@ -8,8 +8,8 @@
 Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 576 ms
+- **Memory:** 30.1 MB
 
 ---
 
